@@ -1,0 +1,7 @@
+******* Citation Information *****************************
+If you find the software square_root_PMM 
+useful, please cite it in you publication as follows: 
+Peipei Tang, Chengjing Wang, Defeng Sun, and Kim Chuan Toh,  
+A sparse semismooth Newton based proximal majorization-minimization algorithm for nonconvex 
+square-root-loss regression problems, 
+Journal of Machine Learning Research 21(226):1--38, 2020. 
